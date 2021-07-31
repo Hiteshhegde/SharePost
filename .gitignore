@@ -1,0 +1,4 @@
+blogenv
+*.pyc
+.env
+.DS_Store

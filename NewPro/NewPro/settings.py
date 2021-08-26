@@ -59,6 +59,9 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'NewPro.urls'
 
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
+
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
